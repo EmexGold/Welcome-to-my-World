@@ -1,2 +1,4 @@
 ## WELCOME TO MY WORLD
-About me
+This is what i love to do
+
+link to my profile [Profile](https://github.com/EmexGold)
